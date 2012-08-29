@@ -51,4 +51,10 @@ Getting Your Feet Wet
 ---------------------
 A coding exercise
 Go to tryjasmine.com
-Code FizzBuzz using TDD and while pairing
+Code FizzBuzz using TDD and Jasmine
+  - do not pair, the goal is to get a feel for the skill level of the students
+
+Retro
+-----
+What did we learn?
+Good? Bad? Ugly?
