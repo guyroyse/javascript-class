@@ -59,4 +59,18 @@ describe("functions", function() {
 
   });
 
+  describe("callback", function() {
+
+    it("calls you back", function() {
+
+      var callback = function(value) {
+        return value * 10;
+      };
+
+      expect(callBacker(callback, 5)).toBe(50);
+
+    });
+
+  });
+
 });
